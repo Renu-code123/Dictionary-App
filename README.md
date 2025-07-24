@@ -3,6 +3,7 @@
 A minimal and responsive Dictionary App built with HTML, CSS, and JavaScript. Users can search for a word, and the app will fetch and display the definition, phonetics, part of speech, and example sentences using a public API (like dictionaryapi.dev).
 
 Perfect for beginners learning about APIs and DOM manipulation.
+<hr>
 
 🚀 Features
 🔍 Search for any English word
@@ -24,6 +25,7 @@ Example usage
 🛜 Fetches data using Dictionary API
 
 💾 (Optional) Save favorite words to localStorage
+<hr>
 
 🛠️ Tech Stack
   HTML5
@@ -31,6 +33,7 @@ Example usage
  CSS3
 
  JavaScript (Fetch API + DOM manipulation)
+ <hr>
 
 🔧 How It Works
 User enters a word in the input field
